@@ -54,9 +54,14 @@
       "idUser": 1
     },
     {
-      "id": 2,
+      "id": 3,
       "idProduct": 2,
       "idUser": 3
+    },
+    {
+      "id": 4,
+      "idProduct": 2,
+      "idUser": 2
     }
   ]
 }
