@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "AlexisTamayo",
+      "name": "Alexis Tamayo",
+      "password": "12345",
+      "avatar": "https://i.pinimg.com/736x/49/c8/e4/49c8e403cd1929e9e7b02126824ff831.jpg"
+    },
+    {
+      "id": 2,
+      "userName": "AngieMoreno",
+      "name": "Angie Moreno",
+      "password": "12345",
+      "avatar": "https://i.pinimg.com/736x/49/c8/e4/49c8e403cd1929e9e7b02126824ff831.jpg"
+    },
+    {
+      "id": 3,
+      "userName": "CarolinaCaldera",
+      "name": "Carolina Caldera",
+      "password": "12345",
+      "avatar": "https://i.pinimg.com/736x/49/c8/e4/49c8e403cd1929e9e7b02126824ff831.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Jamón",
+      "image": "https://enriko.com.co/wp-content/uploads/2021/05/JAMON-DE-CERDO-ESPECIAL.jpg",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Arroz 500 gr",
+      "image": "https://vixark.b-cdn.net/lp-i-i-g/arroz-blanco-de-muy-alta-calidad-diana-2500g.jpg",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "Azúcar 500 gr",
+      "image": "https://tauro.com.co/wp-content/uploads/2022/06/147009.jpg",
+      "price": 5000
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "idProduct": 3,
+      "idUser": 2
+    },
+    {
+      "id": 2,
+      "idProduct": 3,
+      "idUser": 1
+    },
+    {
+      "id": 2,
+      "idProduct": 2,
+      "idUser": 3
+    }
+  ]
+}
